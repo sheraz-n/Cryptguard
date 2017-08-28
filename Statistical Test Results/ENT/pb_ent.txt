@@ -1,0 +1,17 @@
+0,File-bits,Entropy,Chi-square,Mean,Monte-Carlo-Pi,Serial-Correlation
+1,1482643464,1.000000,0.270761,0.499993,3.141640,0.000010
+2,Value,Occurrences,Fraction
+3,0,741331750,0.500007
+3,1,741311714,0.499993
+
+0,File-bits,Entropy,Chi-square,Mean,Monte-Carlo-Pi,Serial-Correlation
+1,1482643464,1.000000,0.070503,0.499997,3.141201,0.000021
+2,Value,Occurrences,Fraction
+3,0,741326844,0.500003
+3,1,741316620,0.499997
+
+0,File-bits,Entropy,Chi-square,Mean,Monte-Carlo-Pi,Serial-Correlation
+1,1482643464,1.000000,1.131796,0.500014,3.142083,-0.000025
+2,Value,Occurrences,Fraction
+3,0,741301250,0.499986
+3,1,741342214,0.500014

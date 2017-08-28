@@ -1,0 +1,56 @@
+256
+Value Char Occurrences Fraction
+  0        741331750   0.500007
+  1        741311714   0.499993
+
+Total:    1482643464   1.000000
+
+Entropy = 1.000000 bits per bit.
+
+Optimum compression would reduce the size
+of this 1482643464 bit file by 0 percent.
+
+Chi square distribution for 1482643464 samples is 0.27, and randomly
+would exceed this value 60.28 percent of the times.
+
+Arithmetic mean value of data bits is 0.5000 (0.5 = random).
+Monte Carlo value for Pi is 3.141640366 (error 0.00 percent).
+Serial correlation coefficient is 0.000010 (totally uncorrelated = 0.0).
+
+512
+Value Char Occurrences Fraction
+  0        741326844   0.500003
+  1        741316620   0.499997
+
+Total:    1482643464   1.000000
+
+Entropy = 1.000000 bits per bit.
+
+Optimum compression would reduce the size
+of this 1482643464 bit file by 0 percent.
+
+Chi square distribution for 1482643464 samples is 0.07, and randomly
+would exceed this value 79.06 percent of the times.
+
+Arithmetic mean value of data bits is 0.5000 (0.5 = random).
+Monte Carlo value for Pi is 3.141201237 (error 0.01 percent).
+Serial correlation coefficient is 0.000021 (totally uncorrelated = 0.0).
+
+1024
+Value Char Occurrences Fraction
+  0        741301250   0.499986
+  1        741342214   0.500014
+
+Total:    1482643464   1.000000
+
+Entropy = 1.000000 bits per bit.
+
+Optimum compression would reduce the size
+of this 1482643464 bit file by 0 percent.
+
+Chi square distribution for 1482643464 samples is 1.13, and randomly
+would exceed this value 28.74 percent of the times.
+
+Arithmetic mean value of data bits is 0.5000 (0.5 = random).
+Monte Carlo value for Pi is 3.142082992 (error 0.02 percent).
+Serial correlation coefficient is -0.000025 (totally uncorrelated = 0.0).
